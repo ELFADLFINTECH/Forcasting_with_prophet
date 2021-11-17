@@ -14,6 +14,5 @@ Guidance:
 ```
 
 Notes:
-*  there wil be a list of merchant_id numbers to choose from.
-* I used prophet forcasting model for this project.
-* the code is part of supsequent defintions that are linked togather, So it is recommended to run the important cells to get the desired outputs.   
+* There will be a list of merchant_id numbers to choose from.
+* I used the prophet forecasting model for this project.
